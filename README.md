@@ -23,7 +23,7 @@ This project implements an **AI-powered, vision-based safety interlock system** 
 
 * [**Sri Krishna R**](https://github.com/sriKr27)
 * [**M Sri Ram Gupta**](https://github.com/SriramGupta19)
-* **Shabarish Setty**
+* [**Shabarish Setty**](https://github.com/SweetShabarish)
 * **Varshitha A**
   
 👉 Full project details on Arduino Project Hub: [Here](https://projecthub.arduino.cc)
