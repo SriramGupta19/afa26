@@ -12,11 +12,11 @@ This project implements an **AI-powered, vision-based safety interlock system** 
 
 ## 🛠️ Schematic
 
-<img width="1157" height="672" alt="Screenshot 2026-01-30 at 23 07 56" src="https://github.com/user-attachments/assets/93f44704-f1ab-4de2-ac5d-b03d47b1e56d" />
+<img width="1157" height="672" alt=<img width="1157" height="672" alt="Screenshot 2026-01-30 at 23 07 56" src="https://github.com/user-attachments/assets/b893d98d-657e-44c8-a19c-eac354cf93eb" />
+"Screenshot 2026-01-30 at 23 07 56" src="https://github.com/user-attachments/assets/93f44704-f1ab-4de2-ac5d-b03d47b1e56d" />
 
 ## Implementation Setup
-
-![Implementation Setup](https://github.com/user-attachments/assets/91013a5f-01c8-41e1-9a6b-259a0dd43838)
+![WhatsApp Image 2026-01-30 at 17 05 35](https://github.com/user-attachments/assets/0d5a9e73-8844-415b-8d7a-dceb5f6aeb90)
 
 ---
 
