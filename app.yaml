@@ -1,0 +1,7 @@
+name: helmet1
+description: ""
+ports: []
+bricks:
+- arduino:video_image_classification:
+   model: mobilenet-image-classification
+icon: 😀

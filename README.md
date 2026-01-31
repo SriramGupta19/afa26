@@ -1,2 +1,28 @@
-# afa26
-Edge AI–based helmet detection system enforcing two-wheeler safety through automatic ignition interlock.
+# AFA26 – AI-Based Helmet Detection Safety Interlock
+
+**Edge AI–based helmet detection system enforcing two-wheeler safety through automatic ignition interlock**
+
+---
+
+## 📌 Overview
+
+This project implements an **AI-powered, vision-based safety interlock system** that prevents a two-wheeler from starting unless the rider is wearing a helmet. A camera mounted on the vehicle captures the rider’s image, and an onboard AI model performs **real-time helmet detection**.
+
+---
+
+## 🛠️ Schematic
+
+<img width="1157" height="672" alt="Screenshot 2026-01-30 at 23 07 56" src="https://github.com/user-attachments/assets/93f44704-f1ab-4de2-ac5d-b03d47b1e56d" />
+
+## Implementation Setup
+
+![Implementation Setup](https://github.com/user-attachments/assets/91013a5f-01c8-41e1-9a6b-259a0dd43838)
+
+---
+
+## 👥 Authors
+
+* [**Sri Krishna R**](https://github.com/sriKr27)
+* [**M Sri Ram Gupta**](https://github.com/SriramGupta19)
+
+👉 Full project details on Arduino Project Hub: [Here](https://projecthub.arduino.cc)
