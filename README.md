@@ -1,4 +1,4 @@
-# AFA26 – AI-Based Helmet Detection Safety Interlock
+# [AfA2026-PhysicalAI] AI-Enabled Helmet Detection–Based Safety Interlock System for Two-Wheelers
 
 **Edge AI–based helmet detection system enforcing two-wheeler safety through automatic ignition interlock**
 
@@ -23,5 +23,7 @@ This project implements an **AI-powered, vision-based safety interlock system** 
 
 * [**Sri Krishna R**](https://github.com/sriKr27)
 * [**M Sri Ram Gupta**](https://github.com/SriramGupta19)
-
+* **Shabarish Setty**
+* **Varshitha A**
+  
 👉 Full project details on Arduino Project Hub: [Here](https://projecthub.arduino.cc)
