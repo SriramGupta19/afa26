@@ -26,4 +26,4 @@ This project implements an **AI-powered, vision-based safety interlock system** 
 * [**Shabarish Setty**](https://github.com/SweetShabarish)
 * **Varshitha A**
   
-👉 Full project details on Arduino Project Hub: [Here](https://projecthub.arduino.cc)
+👉 Full project details on Arduino Project Hub: [Here]([https://projecthub.arduino.cc](https://projecthub.arduino.cc/sriramgupta/afa2026-physicalai-ai-enabled-helmet-detectionbased-safety-interlock-system-for-two-wheelers-e6b8b6))
