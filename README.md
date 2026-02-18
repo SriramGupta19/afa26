@@ -21,7 +21,7 @@ This project implements an **AI-powered, vision-based safety interlock system** 
 
 ## 👥 Authors
 
-* [**M Sri Ram Gupta**](https://github.com/SriramGupta19)
+* [**M Sri Ram Gupta**](https://github.com/SriramGupta19) (sriramgupta21@gmail.com)
 * [**Sri Krishna R**](https://github.com/sriKr27)
 * [**Shabarish Setty**](https://github.com/SweetShabarish)
 * **Varshitha A**
